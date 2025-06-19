@@ -1,6 +1,6 @@
 # PAPERSPLEASE: A Benchmark for Evaluating Motivational Values of Large Language Models Based on ERG Theory
 
-Benchmark dataset for paper: "PAPERSPLEASE: A Benchmark for Evaluating Motivational Values of Large Language Models Based on ERG Theory" (under review)
+Benchmark dataset for paper: **"PAPERSPLEASE: A Benchmark for Evaluating Motivational Values of Large Language Models Based on ERG Theory"** (under review)
 
 This repository contains **PAPERSPLEASE**, a benchmark of 3,700 moral dilemmas designed to evaluate how Large Language Models (LLMs) prioritize different levels of human needs in decision-making tasks.
 
