@@ -22,8 +22,7 @@ Each entry includes a narrative involving a fictional individual and a correspon
 ## Paper
 
 This work is part of the upcoming paper:
-**"PAPERSPLEASE: A Benchmark for Evaluating Motivational Values of Large Language Models Based on ERG Theory"**  
-(under review)
+**"PAPERSPLEASE: A Benchmark for Evaluating Motivational Values of Large Language Models Based on ERG Theory"** (under review)
 
 Citation details will be added upon publication.
 
